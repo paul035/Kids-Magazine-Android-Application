@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316627740114",
+    "firebase_url": "https://kids-magazine-6af4f.firebaseio.com",
+    "project_id": "kids-magazine-6af4f",
+    "storage_bucket": "kids-magazine-6af4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316627740114:android:6b4a92c15744d3e7",
+        "android_client_info": {
+          "package_name": "com.example.android.magazines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316627740114-s8pebl8fkt95469ald961ci3qc5mmeb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.magazines",
+            "certificate_hash": "e27e10a4d4687d0fb05101bb6094b39d138116f6"
+          }
+        },
+        {
+          "client_id": "316627740114-o26g8um2g6rgbp3vbtlrg6r4dj3e064o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhWj2K2uMwd0iiLJb1uPXQJ6xAOTSi4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316627740114-o26g8um2g6rgbp3vbtlrg6r4dj3e064o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
